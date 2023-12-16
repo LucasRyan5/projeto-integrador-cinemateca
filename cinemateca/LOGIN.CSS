@@ -1,0 +1,29 @@
+<main class="form-signin w-100 m-auto">
+      <form>
+       
+        <h1 class="h3 mb-3 fw-normal">Entrar no Cinemateca</h1>
+    
+        <div class="form-floating">
+          <input type="email" class="form-control" id="floatingInput" placeholder="Digite seu E-mail">
+          <label for="floatingInput"></label>
+        </div>
+        <div class="form-floating">
+          <input type="password" class="form-control" id="floatingPassword" placeholder="Digite sua senha">
+          <label for="floatingPassword"> </label>
+        </div>
+    
+        <div class="form-check text-start my-3">
+          <input class="form-check-input" type="checkbox" value="Lembrar-me" id="flexCheckDefault">
+          <label class="form-check-label" for="flexCheckDefault">
+            Lembrar-me
+          </label>
+        </div>
+        <button class="btn btn-primary w-100 py-2" type="submit">Sign in</button>
+        <p class="mt-5 mb-3 text-body-secondary">© Cinemateca 2023</p>
+      </form>
+    </main>
+    
+    <div id="dov" >
+        <script src="/docs/5.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-C6RzsynM9kWDrMNeT87bh95OGNyZPhcTNXj1NW7RuBCsyN/o0jlpcV8Qyq46cDfL" crossorigin="anonymous"></script>
+
+    </div>
